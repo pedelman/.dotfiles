@@ -1,3 +1,4 @@
+brew 'asdf'
 brew 'coreutils'
 brew 'fzf'
 brew 'git'
